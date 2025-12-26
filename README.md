@@ -1,5 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
+<!DOCTYPE md>
+<md lang="en">
 <head>
   <meta charset="UTF-8" />
   <title>Zakirullah – Academic Homepage</title>
@@ -303,4 +303,4 @@
 
   </div>
 </body>
-</html>
+</md>
