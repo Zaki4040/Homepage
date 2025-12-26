@@ -145,7 +145,7 @@
         <li>
           <strong>B.Sc in Mathematics</strong><br />
           University of Malakand, Lower Dir<br />
-          15/09/2022 – 15/07/2024<br />
+          15/09/2028 – 29/04/2021<br />
           City: Lower Dir | Country: Pakistan<br />
           Website:
           <a href="https://www.uom.edu.cn/" target="_blank">https://www.uom.edu.cn/</a><br />
@@ -154,7 +154,7 @@
         <li>
           <strong>B.Sc in Double Mathematics & Physics</strong><br />
           University of Swat<br />
-          15/09/2016 – 15/07/2018<br />
+          1/09/2016 – 15/07/2018<br />
           City: Swat | Country: Pakistan<br />
           Website:
           <a href="https://www.uswat.edu.cn/" target="_blank">https://www.uswat.edu.cn/</a><br />
@@ -164,19 +164,20 @@
     </section>
 
     <!-- Teaching -->
-    <section>
-      <h2>Teaching Experience</h2>
-      <p>
-        <strong>Government College of Technology, Haji Baba Road, Panr Mingora, Swat</strong><br />
-        Mingora | Pakistan | 2022 – 2023<br />
-        Website:
-        <a href="https://kp.gov.pk/page/government_college_of_technology_haji_baba_road_panr_mingora_swat_1/page_type/location" target="_blank">
-          Official link
-        </a><br />
-        Teaching courses: Mathematical Modeling, Calculus, Classical Mathematics,
-        Matrix Theory, Numerical Algebra
-      </p>
-    </section>
+<section>
+  <h2>Teaching Experience</h2>
+  <p>
+    <strong>Government College of Technology, Haji Baba Road, Panr Mingora, Swat</strong><br />
+    <em>Lecturer</em>, 2022–2023<br />
+    Website:
+    <a href="https://kp.gov.pk/page/government_college_of_technology_haji_baba_road_panr_mingora_swat_1/page_type/location" target="_blank">
+      Official link
+    </a><br />
+    Teaching courses: Mathematical Modeling, Calculus, Classical Mathematics,
+    Matrix Theory, Numerical Algebra
+  </p>
+</section>
+
 
     <!-- Publications -->
     <section>
