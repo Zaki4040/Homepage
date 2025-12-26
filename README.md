@@ -109,7 +109,7 @@
     </p>
   </div>
 
- <img src="profile.jpg" alt="Portrait photo" width="140" />
+ <img src="profile.jpg" alt="Portrait photo" width="120" />
 
 </header>
 
