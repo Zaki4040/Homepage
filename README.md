@@ -165,7 +165,7 @@
   <h2>Teaching Experience</h2>
   <p>
     <strong>Government College of Technology, Haji Baba Road, Panr Mingora, Swat</strong><br />
-    <em>Lecturer</em>, 2022–2023<br />
+    <em>Lecturer</em>, 2021–2022<br />
     Website:
     <a href="https://kp.gov.pk/page/government_college_of_technology_haji_baba_road_panr_mingora_swat_1/page_type/location" target="_blank">
       Official link
