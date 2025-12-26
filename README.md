@@ -86,7 +86,6 @@
     }
   </style>
 </head>
-
 <body>
   <div class="page">
     <header>
@@ -94,11 +93,11 @@
         <h1>Zakirullah</h1>
         <div class="contact">
           Department of Mathematics and Statistics<br />
-          University of Helsinki, FIN-00014 Finland<br /><br />
-          Postal address: P.O. Box 68 (Pietari Kalmin katu 5)<br />
-          Office: Kumpula campus, Exactum, room A405<br />
-          Phone: +358-50-4480-277<br />
-          eva.kisdi [at] helsinki.fi
+University of Electronic Science and Technology of China<br /><br />
+Postal address: 2006 Xiyuan Avenue, West Hi-Tech Zone, Chengdu, Sichuan, China<br />
+Phone: +(86)18382130061<br />
+Email: <a href="mailto:zakirullahbzt@gmail.com">zakirullahbzt@gmail.com</a>
+          
         </div>
       </div>
       <div class="photo">
