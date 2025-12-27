@@ -239,29 +239,38 @@
   <a href="1-s2.0-S0960077925017163-main.pdf">PDF</a>
 </li>
     
-    <li>
-      <strong>Zakirullah</strong>, Li, L., Shah, K., Abdalla, B., Abdeljawad, T.
-      Using treatment and vaccination strategies to investigate transmission dynamics of an influenza mathematical model.
-      <em>Ain Shams Engineering Journal</em>,
-      Volume 16, Issue 9, September 2025, Article 103519.
-      <a href="https://doi.org/10.1016/j.asej.2025.103519" target="_blank">DOI</a>
-    </li>
+   <li>
+  <strong>Zakirullah</strong>, Li, L., Shah, K., Abdalla, B., Abdeljawad, T.
+  Using treatment and vaccination strategies to investigate transmission dynamics of an influenza mathematical model.
+  <em>Ain Shams Engineering Journal</em>,
+  Volume 16, Issue 9, September 2025, Article 103519.
+  <a href="https://doi.org/10.1016/j.asej.2025.103519" target="_blank">DOI</a>
+  &nbsp;|&nbsp;
+  <a href="1-s2.0-S0960077925017163-main.pdf">PDF</a>
+</li>
 
-    <li>
-      <strong>Zakirullah</strong>, Lu, C., Li, L., et al.
-      Mathematical insights into chaos in a fractional-order fishery model.
-      <em>Modeling Earth Systems and Environment</em>,
-      11, 201 (2025).
-      <a href="https://doi.org/10.1007/s40808-025-02375-2" target="_blank">DOI</a>
-    </li>
 
-    <li>
-      <strong>Zakirullah</strong>.
-      A mathematical model of pneumococcal pneumonia infection dynamics using treatment and vaccination interventions.
-      <em>International Journal of Applied and Computational Mathematics</em>,
-      11, 112 (2025).
-      <a href="https://doi.org/10.1007/s40819-025-01928-4" target="_blank">DOI</a>
-    </li>
+  <li>
+  <strong>Zakirullah</strong>, Lu, C., Li, L., et al.
+  Mathematical insights into chaos in a fractional-order fishery model.
+  <em>Modeling Earth Systems and Environment</em>,
+  11, 201 (2025).
+  <a href="https://doi.org/10.1007/s40808-025-02375-2" target="_blank">DOI</a>
+  &nbsp;|&nbsp;
+  <a href="s40808-025-02375-2.pdf">PDF</a>
+</li>
+
+
+<li>
+  <strong>Zakirullah</strong>.
+  A mathematical model of pneumococcal pneumonia infection dynamics using treatment and vaccination interventions.
+  <em>International Journal of Applied and Computational Mathematics</em>,
+  11, 112 (2025).
+  <a href="https://doi.org/10.1007/s40819-025-01928-4" target="_blank">DOI</a>
+  &nbsp;|&nbsp;
+  <a href="s40819-025-01928-4.pdf">PDF</a>
+</li>
+
 
     <li>
       <strong>Zakirullah</strong>.
